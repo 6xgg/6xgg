@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Sixto González
+# 👋 ¡Hola! Soy 6xgg
 
 ### 💻 Desarrollador Full Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desarrollo+Web+%7C+Aplicaciones+M%C3%B3viles;JavaScript+%7C+Vue.js+%7C+Laravel;Flutter+%7C+MySQL;Creando+soluciones+innovadoras" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desarrollo+Web;Aplicaciones+M%C3%B3viles;JavaScript+%7C+Vue.js+%7C+Laravel;Creando+soluciones+innovadoras" alt="Typing SVG" />
 
 </div>
 
@@ -42,54 +42,10 @@ Soy un desarrollador Full Stack apasionado por crear experiencias web y aplicaci
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=night-sixgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=night-sixgg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=night-sixgg&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🎯 Actualmente
-
-```javascript
-const sixto = {
-    code: ["JavaScript", "PHP", "Dart", "HTML", "CSS"],
-    technologies: {
-        frontendWeb: ["Vue.js", "HTML5", "CSS3"],
-        mobile: ["Flutter"],
-        backend: ["Laravel"],
-        databases: ["MySQL"],
-        interests: ["Web Development", "Mobile Apps", "Cross-Platform"]
-    },
-    currentFocus: "Creando experiencias digitales excepcionales",
-    funFact: "Cada bug es una oportunidad para aprender algo nuevo"
-};
-```
-
----
-
 ## 📫 ¡Conectemos!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sixto.gonzalezg6@proton.me-0078D4?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sixto.gonzalezg6@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-night--sixgg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/night-sixgg)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 *"El código es poesía en movimiento"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=night-sixgg&color=blueviolet&style=flat-square)
 
 </div>
