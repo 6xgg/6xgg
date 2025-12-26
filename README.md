@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy 6xgg
+# 👋 ¡Hola! Soy Sixto Gonzalez Gonzalez (6xgg)
 
 ### 💻 Desarrollador Full Stack
 
