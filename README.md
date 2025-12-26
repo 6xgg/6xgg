@@ -12,11 +12,11 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador Full Stack apasionado por crear experiencias web y aplicaciones móviles intuitivas y funcionales. Me especializo en construir soluciones completas desde el frontend hasta el backend, siempre buscando código limpio y eficiente.
+Soy un desarrollador **Full Stack** apasionado por crear experiencias web y aplicaciones móviles intuitivas y funcionales. Me especializo en construir soluciones completas desde el frontend hasta el backend, siempre buscando código limpio y eficiente.
 
-- 🌐 **Enfoque:** Desarrollo Web & Aplicaciones Móviles
-- 💡 **Filosofía:** Código limpio, soluciones escalables
-- 🌍 **Idiomas:** Español (nativo) | Inglés (técnico)
+- 🌐 **Enfoque:** Desarrollo Web y Apps Móviles
+- 💡 **Filosofía:** Código limpio, buenas prácticas y escalabilidad
+- 🌍 **Idiomas:** Español (nativo) · Inglés (técnico)
 - 📫 **Contacto:** [sixto.gonzalezg6@proton.me](mailto:sixto.gonzalezg6@proton.me)
 
 ---
